@@ -1,0 +1,14 @@
+Sitemap-e
+
+Sitemap-e will generate a basic XML, HTML sitemap and Robots.txt for your website.
+
+USAGE
+
+* In your terminal run the following command
+	perl sitemap-e.pl http://www.domain.com
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2013 Alex Best
+
+This program is free software; you can redistribute it and/or modify it under the same terms as Perl itself.
